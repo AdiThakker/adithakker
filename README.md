@@ -1,4 +1,4 @@
-## Hi there 🙏
+## Hi there 👋
 
 My name is Adi Thakker and I am a Software Developer / Architect / Functional Programming & Cloud Enthusiast. My current interests include; .NET, C#, F# & Azure.
 
