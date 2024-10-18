@@ -1,5 +1,7 @@
 ## Hi there 🙏
 
+My name is Adi Thakker and I am a Software Developer / Architect / Functional Programming & Cloud Enthusiast. My current interests include; .NET, C#, F# & Azure.
+
 <!--
 **AdiThakker/adithakker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
