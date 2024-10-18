@@ -2,8 +2,8 @@
 
 My name is Adi Thakker and I am a Software Developer / Architect / Functional Programming & Cloud Enthusiast. My current interests include; .NET, C#, F# & Azure.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithakker)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithakker)](https://github.com/anuraghazra/github-readme-stats)](url)
 **AdiThakker/adithakker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
