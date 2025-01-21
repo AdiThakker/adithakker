@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 👋🏻👨🏻‍💻 ![](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=My+name+is+Adi+Thakker)
+
 My name is Adi Thakker and I am a Software Developer / Architect / Functional Programming & Cloud Enthusiast. My current interests include; .NET, C#, F#, Azure & AI.
 
 <!--
